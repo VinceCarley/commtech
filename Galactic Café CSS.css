@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+/* Basic Styling */
+
+nav {background-color: black;
+color: white;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+
+
+}
+
+.container {
+	height:100%;
+	margin-bottom: 50%;
+}
+
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+body {
+    font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: white;
+	
+    margin: 0px;
+    padding: 10px;
+	
+	
+  background-image: url("../Galaxy Background 1.avif");
+	background-size: 100%;
+		background-repeat: repeat-y;
+			background-attachment: fixed;
+				background-position: right;
+
+}
+	
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+footer {background-color: black;
+position: absolute;
+width: 100%}
+
+td {
+	width: 50%;
+	align-content: center
+		
+}
+
+
+
+button {width: 70%;
+	height: 25%;
+	font-size: 300%;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: white;
+	background-color: black;
+		text-decoration: none;
+	
+
+
+
+
+
+}
